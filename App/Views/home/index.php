@@ -1,7 +1,7 @@
 <!--Definindo o caminho do template(layout principal) e passando uma variavel pra ele "title"-->
 <?php $this->layout('main.template', ['title' => 'Editar Usuario']) ?>
 
-<div class="corpo-home container" id="corpo-home">
+<div class="corpo-home container" id="corpo-home"> 
   <div class="corpo-imagem">
     <img src="img/Sem Título-1.png">
   </div>
